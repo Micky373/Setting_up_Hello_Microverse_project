@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Setting up my first Hello Microverse project
 
 This is my first Hello Microverse project.
 
